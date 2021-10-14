@@ -19,7 +19,7 @@ After you complete **Getting Started**, use **Hello World** to test your install
 
 | Core Concepts | Debugging | Learn More |
 | -- | -- | -- |
-| [Networking](../getting-started/connection-approval.md)<br/>[Components](../components/networkmanager.md)<br/>[Objects](../mlapi-basics/object-spawning.md)<br/>[Messaging System](../advanced-topics/messaging-system.md)<br/>[Serialization](../advanced-topics/serialization/serialization-intro.md)<br/>[Scenes](../mlapi-basics/scene-management.md) | [Logging](../mlapi-basics/logging.md)<br/>[Troublshooting](../troubleshooting/troubleshooting.md)<br/>[Error Messages](../troubleshooting/error-messages.md) | [References](../learn/index.md)<br/>[Boss Room](../learn/getting-started-boss-room.md)<br/>[Bite Size Samples](../learn/bitesize-introduction.md)<br/>[Dapper Dino Tutorials](../learn/dapper/dapper-video.md)<br/>[FAQs](../learn/faq.md) |
+| [Networking](../getting-started/connection-approval.md)<br/>[Components](../components/networkmanager.md)<br/>[Objects](../mlapi-basics/object-spawning.md)<br/>[Messaging System](../advanced-topics/messaging-system.md)<br/>[Serialization](../advanced-topics/serialization/serialization-intro.md)<br/>[Scenes](../mlapi-basics/scene-management.md) | [Logging](../mlapi-basics/logging.md)<br/>[Troubleshooting](../troubleshooting/troubleshooting.md)<br/>[Error Messages](../troubleshooting/error-messages.md) | [References](../learn/index.md)<br/>[Boss Room](../learn/getting-started-boss-room.md)<br/>[Bite Size Samples](../learn/bitesize-introduction.md)<br/>[Dapper Dino Tutorials](../learn/dapper/dapper-video.md)<br/>[FAQs](../learn/faq.md) |
 
 </div>
 

@@ -37,14 +37,7 @@ Additive scene loading adds new scenes without unloading existing scenes. The sc
 
 It may help to think of this mode as games that have expansive levels or an open-world feel. The entire level doesn’t load at once, but builds as the character explores. And since the previous scenes don’t unload, the character can return to previous scenes without reloading. A character is able to move from scene to scene with almost no transition.
 
-Explore the Netcode Scene Management Golden Paths for step-by-step examples of additive scene loading and management:
-* [Module Four](../tutorials/scenemanagement_gps/scenemanagement_gp_modulefour.md)
-* [Module Five](../tutorials/scenemanagement_gps/scenemanagement_gp_modulefive.md)
-* [Module Six](../tutorials/scenemanagement_gps/scenemanagement_gp_modulesix.md) 
-
-:::tip
-Each Golden Path expects you to start with the [Foundations](../tutorials/goldenpath_series/goldenpath_foundation_module.md) module already complete.
-:::
+Explore the [Netcode Scene Management Golden Path](../tutorials/goldenpath_series/gp_scenemanagement_bootstrap.md) for step-by-step examples of additive scene loading and management.
 
 :::contribution Special Thanks
 This article would not have been possible without the hard work and support of Noel Stephens, Unity.

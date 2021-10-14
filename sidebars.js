@@ -65,7 +65,11 @@ module.exports = {
       {
         "type": "doc",
         "id": "tutorials/goldenpath_series/goldenpath_two"
-      },  
+      },
+      {
+        "type": "doc",
+        "id": "tutorials/goldenpath_series/gp_scenemanagement_bootstrap"
+      },   
     ],
    
   },
